@@ -19,8 +19,8 @@ A validation project for **[DeepMReye](https://github.com/DeepMReye/DeepMReye)**
 
 Below are some essential resources and references to help you get started:
 
-- **MRI Basics**: [Andy's Brain Book: Introduction to fMRI](https://andysbrainbook.readthedocs.io/en/latest/fMRI_Short_Course/fMRI_Intro.html)  
-- **What are Neural Networks and Deep Learning?**: [An Excellent Introductory Series](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) 
+- **fMRI Basics**: [Andy's Brain Book: Introduction to fMRI](https://andysbrainbook.readthedocs.io/en/latest/fMRI_Short_Course/fMRI_Intro.html)  
+- **Introduction to Neural Networks and Deep Learning**: [3Blue1Brown Youtube Series](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) 
 
 **Additional Documentation and Links:**
 - [DeepMReye Repository](https://github.com/DeepMReye/DeepMReye)  

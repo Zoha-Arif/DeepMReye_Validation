@@ -53,12 +53,8 @@ cd DeepMReye_Validation
 # 2. Clone the main DeepMReye repository (if needed)
 git clone https://github.com/DeepMReye/DeepMReye.git
 
-# 3. Create and activate a Python virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+# 3. Open the cloned repository using a python editor of your choice (we use Jupyter Notebooks)
 
-# 4. Install dependencies
-pip install -r requirements.txt  # Adjust path if your requirements.txt is located elsewhere
 ```
 ## Project Structure 
 ```

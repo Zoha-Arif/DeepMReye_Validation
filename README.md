@@ -59,7 +59,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # 4. Install dependencies
 pip install -r requirements.txt  # Adjust path if your requirements.txt is located elsewhere
-
+```
 ## Data Access
 
 This project uses both **example data from DeepMReye** and **project-specific datasets** to compare fMRI-derived gaze with traditional eye-tracking.

@@ -21,7 +21,8 @@ Below are some essential resources and references to help you get started:
 
 - **fMRI Basics**: [Andy's Brain Book: Introduction to fMRI](https://andysbrainbook.readthedocs.io/en/latest/fMRI_Short_Course/fMRI_Intro.html)  
 - **Introduction to Neural Networks and Deep Learning**: [3Blue1Brown Youtube Series](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) 
-
+- **Get an OSF Account to access the dataset**: [OSF website](https://osf.io/)
+  
 **Additional Documentation and Links:**
 - [DeepMReye Repository](https://github.com/DeepMReye/DeepMReye)  
 - [DeepMReye Example Usage Notebook](https://github.com/DeepMReye/DeepMReye/blob/main/notebooks/deepmreye_example_usage.ipynb)  

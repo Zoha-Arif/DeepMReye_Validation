@@ -81,7 +81,7 @@ This project uses both **example data from DeepMReye** and **project-specific da
 
 ## Contributing
 
-We welcome contributions from the community! To contribute, 
+We welcome contributions from the community! Feel free to contact us if you have questions, suggestions, or want to get involved.
 
 ## License
 Please contact Dr. Sophia Vinci-Booher (sophia.vinci-booher@vanderbilt.edu) if you plan to reuse or distribute the LAND Lab dataset used in this project.

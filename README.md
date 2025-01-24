@@ -60,6 +60,15 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 # 4. Install dependencies
 pip install -r requirements.txt  # Adjust path if your requirements.txt is located elsewhere
 ```
+## Project Structure 
+```
+DeepMReye_Validation/
+├── notebooks/        # Jupyter notebooks for analysis, demos, tests
+├── scripts/          # Standalone scripts for running analyses and pre-processing
+├── DeepMReye/        # Cloned DeepMReye repository
+├── requirements.txt  # Python dependencies
+└── README.md         # This readme
+```
 ## Data Access
 
 This project uses both **example data from DeepMReye** and **project-specific datasets** to compare fMRI-derived gaze with traditional eye-tracking.
@@ -74,8 +83,11 @@ This project uses both **example data from DeepMReye** and **project-specific da
    - [OSF Link](https://osf.io/suak8/)  
    - Contains both fMRI and corresponding in-bore eye-tracking data for direct comparison.
 
-### Example 1: Using `dipy` to Download a Public Dataset
-```python
-from dipy.data import fetch_stanford_t1
-t1_fname = fetch_stanford_t1()
-print(t1_fname)  # Location of downloaded data
+## Contributing
+
+We welcome contributions from the community! To contribute, 
+
+## License
+Please contact Dr. Sophia Vinci-Booher (sophia.vinci-booher@vanderbilt.edu) if you plan to reuse or distribute the LAND Lab dataset used in this project.
+
+
